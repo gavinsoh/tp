@@ -39,15 +39,15 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Benjamin Lim
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/benjibase.png" width="200px">
 
-[[github](http://github.com/johndoe)]
+[[github](http://github.com/benjiBase)]
 [[portfolio](team/johndoe.md)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: Data
 
 ### Chong Xin Wei
 
@@ -58,3 +58,4 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Developer
 * Responsibilities: UI
+
