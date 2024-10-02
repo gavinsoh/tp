@@ -7,6 +7,9 @@ import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Region;
 import seedu.address.model.person.Person;
+
+
+
 /**
  * An UI component that displays information of a {@code Person}.
  */
@@ -36,6 +39,7 @@ public class PersonCard extends UiPart<Region> {
     private Label remark;
     @FXML
     private FlowPane tags;
+
 
     /**
      * Constructs a PersonCard with the given person's details and the index at which it will be displayed.
